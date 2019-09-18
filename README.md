@@ -9,7 +9,7 @@ Teckniques tried in this challenge.
 * gradient boosting algorithms: - Lightgbm
                                 - XGBoost
                                 - Catboost
-Extracted statistics from the images of each farm of the different bands and other feature engineered features taken from this [research paper](https://docs.google.com/document/d/1GOn8MPL2s-TovjiX2rcXmVUqRqRg2Vo7-8scIisrrKE/edit?usp=sharing)
+Extracted statistics from the images of each farm of the different bands and other feature engineered layers taken from this [research paper](https://docs.google.com/document/d/1GOn8MPL2s-TovjiX2rcXmVUqRqRg2Vo7-8scIisrrKE/edit?usp=sharing)
                            
                                
 * Convolutional neural networks: (CNN): since the data is composed of images
